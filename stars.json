@@ -1,21 +1,21 @@
 [
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 905,
+    "stargazers_count": 914,
     "open_issues_count": 0,
-    "forks_count": 225
+    "forks_count": 228
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 28329,
-    "open_issues_count": 130,
-    "forks_count": 6462
+    "stargazers_count": 28383,
+    "open_issues_count": 136,
+    "forks_count": 6482
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 199437,
+    "stargazers_count": 199746,
     "open_issues_count": 332,
-    "forks_count": 35898
+    "forks_count": 35947
   },
   {
     "full_name": "this-is-angular/ngrx-essentials-course",
@@ -42,16 +42,16 @@
     "forks_count": 0
   },
   {
-    "full_name": "dashevo/insight-ui",
+    "full_name": "dashpay/insight-ui",
     "stargazers_count": 24,
     "open_issues_count": 10,
     "forks_count": 65
   },
   {
     "full_name": "anasty17/mirror-leech-telegram-bot",
-    "stargazers_count": 1965,
+    "stargazers_count": 1949,
     "open_issues_count": 0,
-    "forks_count": 4835
+    "forks_count": 4848
   },
   {
     "full_name": "santoshyadavdev/gde-githubstar-interest-call",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5895,
+    "stargazers_count": 5896,
     "open_issues_count": 51,
-    "forks_count": 766
+    "forks_count": 767
   },
   {
     "full_name": "PacktPublishing/Accelerating-Angular-Development-with-Ivy",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 23115,
-    "open_issues_count": 11,
+    "stargazers_count": 23131,
+    "open_issues_count": 10,
     "forks_count": 1896
   },
   {
     "full_name": "dogecoin/dogecoin",
-    "stargazers_count": 14160,
-    "open_issues_count": 173,
-    "forks_count": 2619
+    "stargazers_count": 14165,
+    "open_issues_count": 174,
+    "forks_count": 2620
   },
   {
     "full_name": "mgechev/ngx-tfjs",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-    "stargazers_count": 10086,
+    "stargazers_count": 10389,
     "open_issues_count": 11,
-    "forks_count": 3133
+    "forks_count": 3164
   },
   {
     "full_name": "santoshyadavdev/angular-getting-started",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "sdushantha/wifi-password",
-    "stargazers_count": 2513,
+    "stargazers_count": 2515,
     "open_issues_count": 18,
-    "forks_count": 298
+    "forks_count": 299
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 3035,
+    "stargazers_count": 3044,
     "open_issues_count": 4,
-    "forks_count": 425
+    "forks_count": 427
   },
   {
     "full_name": "eviabs/downtify-premium",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 84229,
-    "open_issues_count": 1228,
-    "forks_count": 22301
+    "stargazers_count": 84272,
+    "open_issues_count": 1222,
+    "forks_count": 22330
   },
   {
     "full_name": "GregorBiswanger/rxjs-fruits",
