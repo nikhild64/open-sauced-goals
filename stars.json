@@ -1,51 +1,51 @@
 [
   {
     "full_name": "zazhang/ep-chan-book-algo-trading",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 0,
     "forks_count": 50
   },
   {
     "full_name": "jonkrohn/ML-foundations",
-    "stargazers_count": 2642,
+    "stargazers_count": 2651,
     "open_issues_count": 1,
-    "forks_count": 1312
+    "forks_count": 1314
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 8321,
-    "open_issues_count": 81,
-    "forks_count": 605
+    "stargazers_count": 8382,
+    "open_issues_count": 83,
+    "forks_count": 611
   },
   {
     "full_name": "stefan-jansen/machine-learning-for-trading",
-    "stargazers_count": 11027,
-    "open_issues_count": 11,
-    "forks_count": 3799
+    "stargazers_count": 11053,
+    "open_issues_count": 12,
+    "forks_count": 3802
   },
   {
     "full_name": "Coder-World04/Complete-Machine-Learning-",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 0,
-    "forks_count": 41
+    "forks_count": 43
   },
   {
     "full_name": "awesomedata/awesome-public-datasets",
-    "stargazers_count": 57432,
+    "stargazers_count": 57471,
     "open_issues_count": 126,
-    "forks_count": 9689
+    "forks_count": 9688
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 17804,
-    "open_issues_count": 637,
-    "forks_count": 2426
+    "stargazers_count": 17824,
+    "open_issues_count": 645,
+    "forks_count": 2430
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 116000,
-    "open_issues_count": 1762,
-    "forks_count": 23135
+    "stargazers_count": 116425,
+    "open_issues_count": 1771,
+    "forks_count": 23213
   },
   {
     "full_name": "rondinellimorais/facial-expression-recognition",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "eugeneyan/applied-ml",
-    "stargazers_count": 25104,
+    "stargazers_count": 25116,
     "open_issues_count": 3,
-    "forks_count": 3480
+    "forks_count": 3481
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 26322,
-    "open_issues_count": 59,
-    "forks_count": 4395
+    "stargazers_count": 26432,
+    "open_issues_count": 60,
+    "forks_count": 4426
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 63557,
-    "open_issues_count": 22,
-    "forks_count": 12887
+    "stargazers_count": 63624,
+    "open_issues_count": 23,
+    "forks_count": 12920
   },
   {
     "full_name": "dair-ai/Mathematics-for-ML",
-    "stargazers_count": 4026,
+    "stargazers_count": 4031,
     "open_issues_count": 9,
     "forks_count": 379
   },
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 1836,
+    "stargazers_count": 1840,
     "open_issues_count": 6,
-    "forks_count": 419
+    "forks_count": 421
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 39783,
-    "open_issues_count": 327,
-    "forks_count": 9462
+    "stargazers_count": 39813,
+    "open_issues_count": 328,
+    "forks_count": 9473
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 239482,
-    "open_issues_count": 407,
-    "forks_count": 41762
+    "stargazers_count": 241273,
+    "open_issues_count": 409,
+    "forks_count": 41949
   },
   {
     "full_name": "this-is-angular/ngrx-essentials-course",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "dashpay/insight-ui",
-    "stargazers_count": 24,
+    "stargazers_count": 23,
     "open_issues_count": 11,
     "forks_count": 65
   },
   {
     "full_name": "anasty17/mirror-leech-telegram-bot",
-    "stargazers_count": 2885,
-    "open_issues_count": 25,
-    "forks_count": 5664
+    "stargazers_count": 2893,
+    "open_issues_count": 27,
+    "forks_count": 5667
   },
   {
     "full_name": "santoshyadavdev/gde-githubstar-interest-call",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5920,
+    "stargazers_count": 5918,
     "open_issues_count": 49,
-    "forks_count": 786
+    "forks_count": 787
   },
   {
     "full_name": "PacktPublishing/Accelerating-Angular-Development-with-Ivy",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 26627,
-    "open_issues_count": 12,
-    "forks_count": 2159
+    "stargazers_count": 26641,
+    "open_issues_count": 11,
+    "forks_count": 2160
   }
 ]
