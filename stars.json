@@ -1,27 +1,27 @@
 [
   {
     "full_name": "zazhang/ep-chan-book-algo-trading",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 0,
     "forks_count": 55
   },
   {
     "full_name": "jonkrohn/ML-foundations",
-    "stargazers_count": 2748,
+    "stargazers_count": 2757,
     "open_issues_count": 2,
-    "forks_count": 1356
+    "forks_count": 1359
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 9598,
-    "open_issues_count": 92,
-    "forks_count": 747
+    "stargazers_count": 9622,
+    "open_issues_count": 101,
+    "forks_count": 754
   },
   {
     "full_name": "stefan-jansen/machine-learning-for-trading",
-    "stargazers_count": 11324,
+    "stargazers_count": 11357,
     "open_issues_count": 17,
-    "forks_count": 3897
+    "forks_count": 3903
   },
   {
     "full_name": "Coder-World04/Complete-Machine-Learning-",
@@ -31,51 +31,51 @@
   },
   {
     "full_name": "awesomedata/awesome-public-datasets",
-    "stargazers_count": 57862,
+    "stargazers_count": 57879,
     "open_issues_count": 124,
-    "forks_count": 9741
+    "forks_count": 9747
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 18025,
-    "open_issues_count": 650,
-    "forks_count": 2471
+    "stargazers_count": 18047,
+    "open_issues_count": 659,
+    "forks_count": 2473
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 120954,
+    "stargazers_count": 121671,
     "open_issues_count": 1885,
-    "forks_count": 24086
+    "forks_count": 24230
   },
   {
     "full_name": "rondinellimorais/facial-expression-recognition",
-    "stargazers_count": 836,
+    "stargazers_count": 837,
     "open_issues_count": 1,
     "forks_count": 82
   },
   {
     "full_name": "eugeneyan/applied-ml",
-    "stargazers_count": 25635,
+    "stargazers_count": 25677,
     "open_issues_count": 2,
-    "forks_count": 3521
+    "forks_count": 3525
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 27362,
+    "stargazers_count": 27421,
     "open_issues_count": 66,
-    "forks_count": 4676
+    "forks_count": 4688
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 64357,
-    "open_issues_count": 14,
-    "forks_count": 13246
+    "stargazers_count": 64405,
+    "open_issues_count": 12,
+    "forks_count": 13259
   },
   {
     "full_name": "dair-ai/Mathematics-for-ML",
-    "stargazers_count": 4084,
+    "stargazers_count": 4089,
     "open_issues_count": 10,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "iacopomasi/AI-ML-Unit-2",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 1899,
+    "stargazers_count": 1903,
     "open_issues_count": 6,
     "forks_count": 431
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 40349,
-    "open_issues_count": 335,
-    "forks_count": 9605
+    "stargazers_count": 40398,
+    "open_issues_count": 334,
+    "forks_count": 9613
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 246622,
+    "stargazers_count": 246961,
     "open_issues_count": 416,
-    "forks_count": 42766
+    "forks_count": 42809
   },
   {
     "full_name": "this-is-angular/ngrx-essentials-course",
@@ -129,13 +129,13 @@
     "full_name": "dashpay/insight-ui",
     "stargazers_count": 24,
     "open_issues_count": 11,
-    "forks_count": 65
+    "forks_count": 64
   },
   {
     "full_name": "anasty17/mirror-leech-telegram-bot",
-    "stargazers_count": 2962,
+    "stargazers_count": 2967,
     "open_issues_count": 18,
-    "forks_count": 5718
+    "forks_count": 5720
   },
   {
     "full_name": "santoshyadavdev/gde-githubstar-interest-call",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5918,
+    "stargazers_count": 5917,
     "open_issues_count": 49,
     "forks_count": 789
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "mgechev/angular-performance-checklist",
-    "stargazers_count": 4070,
+    "stargazers_count": 4071,
     "open_issues_count": 1,
     "forks_count": 460
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 26903,
+    "stargazers_count": 26934,
     "open_issues_count": 11,
-    "forks_count": 2204
+    "forks_count": 2208
   }
 ]
