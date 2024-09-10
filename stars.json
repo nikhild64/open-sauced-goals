@@ -1,15 +1,15 @@
 [
   {
     "full_name": "namastedev/namaste-frontend-system-design",
-    "stargazers_count": 321,
+    "stargazers_count": 323,
     "open_issues_count": 0,
-    "forks_count": 181
+    "forks_count": 186
   },
   {
     "full_name": "karpathy/LLM101n",
-    "stargazers_count": 27905,
+    "stargazers_count": 28095,
     "open_issues_count": 19,
-    "forks_count": 1525
+    "forks_count": 1530
   },
   {
     "full_name": "SyncfusionSuccinctlyE-Books/Angular-2-Succinctly",
@@ -19,69 +19,69 @@
   },
   {
     "full_name": "architect/architect",
-    "stargazers_count": 2537,
+    "stargazers_count": 2540,
     "open_issues_count": 76,
     "forks_count": 102
   },
   {
     "full_name": "chaconnewu/free-data-science-books",
-    "stargazers_count": 2895,
+    "stargazers_count": 2897,
     "open_issues_count": 3,
-    "forks_count": 1092
+    "forks_count": 1090
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1589,
+    "stargazers_count": 1593,
     "open_issues_count": 148,
-    "forks_count": 566
+    "forks_count": 565
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 25947,
-    "open_issues_count": 169,
-    "forks_count": 2900
+    "stargazers_count": 26017,
+    "open_issues_count": 171,
+    "forks_count": 2911
   },
   {
     "full_name": "ng-doc/ng-doc",
-    "stargazers_count": 212,
-    "open_issues_count": 19,
+    "stargazers_count": 215,
+    "open_issues_count": 20,
     "forks_count": 21
   },
   {
     "full_name": "tomalaforge/angular-challenges",
-    "stargazers_count": 1066,
-    "open_issues_count": 42,
-    "forks_count": 1591
+    "stargazers_count": 1073,
+    "open_issues_count": 43,
+    "forks_count": 1599
   },
   {
     "full_name": "shashankrustagi/DSA-IITD-NaveenGarg",
-    "stargazers_count": 868,
+    "stargazers_count": 893,
     "open_issues_count": 0,
-    "forks_count": 110
+    "forks_count": 120
   },
   {
     "full_name": "zazhang/ep-chan-book-algo-trading",
-    "stargazers_count": 350,
+    "stargazers_count": 352,
     "open_issues_count": 0,
     "forks_count": 72
   },
   {
     "full_name": "jonkrohn/ML-foundations",
-    "stargazers_count": 3315,
-    "open_issues_count": 2,
-    "forks_count": 1590
+    "stargazers_count": 3323,
+    "open_issues_count": 0,
+    "forks_count": 1596
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 18520,
-    "open_issues_count": 99,
-    "forks_count": 1440
+    "stargazers_count": 18551,
+    "open_issues_count": 100,
+    "forks_count": 1442
   },
   {
     "full_name": "stefan-jansen/machine-learning-for-trading",
-    "stargazers_count": 12841,
+    "stargazers_count": 12873,
     "open_issues_count": 22,
-    "forks_count": 4105
+    "forks_count": 4110
   },
   {
     "full_name": "Coder-World04/Complete-Machine-Learning-",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "awesomedata/awesome-public-datasets",
-    "stargazers_count": 60009,
+    "stargazers_count": 60068,
     "open_issues_count": 125,
-    "forks_count": 9825
+    "forks_count": 9828
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 18960,
-    "open_issues_count": 735,
-    "forks_count": 2622
+    "stargazers_count": 18980,
+    "open_issues_count": 737,
+    "forks_count": 2623
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 139105,
-    "open_issues_count": 2270,
-    "forks_count": 26401
+    "stargazers_count": 139312,
+    "open_issues_count": 2271,
+    "forks_count": 26433
   },
   {
     "full_name": "rondinellimorais/facial-expression-recognition",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "eugeneyan/applied-ml",
-    "stargazers_count": 27137,
+    "stargazers_count": 27141,
     "open_issues_count": 2,
-    "forks_count": 3664
+    "forks_count": 3665
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 33951,
+    "stargazers_count": 33982,
     "open_issues_count": 55,
-    "forks_count": 5639
+    "forks_count": 5650
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 68967,
+    "stargazers_count": 68990,
     "open_issues_count": 4,
-    "forks_count": 14228
+    "forks_count": 14242
   },
   {
     "full_name": "dair-ai/Mathematics-for-ML",
-    "stargazers_count": 4394,
+    "stargazers_count": 4403,
     "open_issues_count": 10,
-    "forks_count": 403
+    "forks_count": 404
   },
   {
     "full_name": "iacopomasi/AI-ML-Unit-2",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2108,
+    "stargazers_count": 2112,
     "open_issues_count": 6,
     "forks_count": 472
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 42593,
+    "stargazers_count": 42624,
     "open_issues_count": 351,
-    "forks_count": 9886
+    "forks_count": 9892
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 268774,
-    "open_issues_count": 466,
-    "forks_count": 45434
+    "stargazers_count": 269036,
+    "open_issues_count": 467,
+    "forks_count": 45459
   },
   {
     "full_name": "this-is-angular/ngrx-essentials-course",
