@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 117940,
+    "stargazers_count": 120375,
     "open_issues_count": 23,
-    "forks_count": 2141
+    "forks_count": 2190
   },
   {
     "full_name": "piyushgarg-dev/genai-js-1.0",
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 67358,
+    "stargazers_count": 67603,
     "open_issues_count": 76,
-    "forks_count": 7623
+    "forks_count": 7662
   },
   {
     "full_name": "rohitg00/awesome-devops-mcp-servers",
-    "stargazers_count": 881,
+    "stargazers_count": 885,
     "open_issues_count": 6,
     "forks_count": 147
   },
   {
     "full_name": "booklore-app/booklore",
-    "stargazers_count": 5880,
-    "open_issues_count": 276,
+    "stargazers_count": 6002,
+    "open_issues_count": 290,
     "forks_count": 302
   },
   {
@@ -37,57 +37,57 @@
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 10929,
-    "open_issues_count": 17,
-    "forks_count": 1394
+    "stargazers_count": 10960,
+    "open_issues_count": 15,
+    "forks_count": 1399
   },
   {
     "full_name": "agent0ai/agent-zero",
-    "stargazers_count": 12252,
-    "open_issues_count": 235,
-    "forks_count": 2401
+    "stargazers_count": 12280,
+    "open_issues_count": 237,
+    "forks_count": 2409
   },
   {
     "full_name": "metorial/metorial",
-    "stargazers_count": 3138,
-    "open_issues_count": 3,
+    "stargazers_count": 3144,
+    "open_issues_count": 2,
     "forks_count": 346
   },
   {
     "full_name": "angularcafe/slateui-theme",
     "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 4,
+    "forks_count": 1
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 17554,
+    "stargazers_count": 17583,
     "open_issues_count": 59,
-    "forks_count": 1639
+    "forks_count": 1642
   },
   {
     "full_name": "caronc/apprise",
-    "stargazers_count": 14902,
-    "open_issues_count": 95,
-    "forks_count": 529
+    "stargazers_count": 14934,
+    "open_issues_count": 93,
+    "forks_count": 530
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 82401,
-    "open_issues_count": 2824,
-    "forks_count": 9237
+    "stargazers_count": 82876,
+    "open_issues_count": 2926,
+    "forks_count": 9313
   },
   {
     "full_name": "PacktPublishing/Building-Agentic-AI-Systems",
-    "stargazers_count": 275,
+    "stargazers_count": 280,
     "open_issues_count": 0,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "aishwaryanr/awesome-generative-ai-guide",
-    "stargazers_count": 20457,
-    "open_issues_count": 6,
-    "forks_count": 4466
+    "stargazers_count": 20826,
+    "open_issues_count": 5,
+    "forks_count": 4536
   },
   {
     "full_name": "piyushgarg-dev/docker-code-files",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "piyushgarg-dev/genai-cohort-2.0",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 3,
     "forks_count": 41
   },
   {
     "full_name": "Tyrrrz/YoutubeDownloader",
-    "stargazers_count": 13318,
-    "open_issues_count": 12,
-    "forks_count": 1694
+    "stargazers_count": 13364,
+    "open_issues_count": 13,
+    "forks_count": 1700
   },
   {
     "full_name": "100xdevs-cohort-2/week-7",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "hxu296/leetcode-company-wise-problems-2022",
-    "stargazers_count": 10879,
+    "stargazers_count": 10891,
     "open_issues_count": 27,
-    "forks_count": 2282
+    "forks_count": 2283
   },
   {
     "full_name": "namastedev/namaste-frontend-system-design",
-    "stargazers_count": 533,
+    "stargazers_count": 534,
     "open_issues_count": 2,
-    "forks_count": 321
+    "forks_count": 323
   },
   {
     "full_name": "karpathy/LLM101n",
-    "stargazers_count": 35543,
+    "stargazers_count": 35577,
     "open_issues_count": 19,
-    "forks_count": 1933
+    "forks_count": 1937
   },
   {
     "full_name": "SyncfusionSuccinctlyE-Books/Angular-2-Succinctly",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 29091,
+    "stargazers_count": 29096,
     "open_issues_count": 217,
-    "forks_count": 3480
+    "forks_count": 3482
   },
   {
     "full_name": "ng-doc/ng-doc",
     "stargazers_count": 305,
-    "open_issues_count": 40,
+    "open_issues_count": 35,
     "forks_count": 43
   },
   {
     "full_name": "tomalaforge/angular-challenges",
-    "stargazers_count": 1326,
-    "open_issues_count": 89,
-    "forks_count": 2620
+    "stargazers_count": 1330,
+    "open_issues_count": 90,
+    "forks_count": 2627
   },
   {
     "full_name": "shashankrustagi/DSA-IITD-NaveenGarg",
-    "stargazers_count": 1137,
+    "stargazers_count": 1135,
     "open_issues_count": 0,
     "forks_count": 153
   }
